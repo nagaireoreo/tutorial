@@ -5,3 +5,5 @@ kakikomi2
 kakikomi3
 
 kakikomi4
+
+pull リモートリポジトリの内容を取得する
